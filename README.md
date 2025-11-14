@@ -57,4 +57,7 @@ F1-score
 
 ROC-AUC
 
-The final deployed model is: Logistic regression.
+The final deployed model is: Logistic Regression.
+
+📈 Results
+Recall: 86%
