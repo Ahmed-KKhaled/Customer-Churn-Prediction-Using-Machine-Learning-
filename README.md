@@ -57,4 +57,4 @@ F1-score
 
 ROC-AUC
 
-The final deployed model is: Random Forest (or اكتب موديلك).
+The final deployed model is: Logistic regression.
